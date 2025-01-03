@@ -1,1 +1,2 @@
-Eureka Calculator is a calculator by Eureka Foundation in python.
+# Python Calculator 
+this is GUI calculator in Python
